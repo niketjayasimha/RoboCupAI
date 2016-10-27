@@ -1,4 +1,4 @@
-Robocup-Attack-AttackOnTitan
+RoboCupAI
 ============================
 
-Artificial Intelligence - Project | Robocup
+Implentation of offensive aspect of RoboCup AI 
